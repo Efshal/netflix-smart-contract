@@ -1,5 +1,4 @@
-export const uDonate_address = "0xCb3D1d24c278830e8D40FaF003f6a4B1713bba19";
-export const uDonate_abi = [
+export const netflix_abi = [
   {
     anonymous: false,
     inputs: [
